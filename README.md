@@ -5,13 +5,13 @@ A 'simple' GUI application created for friends.
 
 Features:
 
-Displays text
+	Displays text
 
-Launches HTML webpage
+	Launches HTML webpage
 
-Controls mouse motions
+	Controls mouse motions
 
-Displays slideshow of photos
+	Displays slideshow of photos
 
 
 V1 Finished: 8 August 2013
